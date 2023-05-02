@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://admin-dashboard-roycua.vercel.app/)
+![Live Demo](https://admin-dashboard-roycua.vercel.app/)
 
 
 # React Admin Dashboard
